@@ -1,0 +1,18 @@
+current directory: /home/deepak/Desktop/Rspec_dummy/empoyee/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/deepak/.rvm/rubies/ruby-2.6.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/deepak/Desktop/Rspec_dummy/empoyee/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240119-6717-1gq0hhi sitelibdir\=./.gem.20240119-6717-1gq0hhi clean
+
+current directory: /home/deepak/Desktop/Rspec_dummy/empoyee/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240119-6717-1gq0hhi sitelibdir\=./.gem.20240119-6717-1gq0hhi
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/deepak/Desktop/Rspec_dummy/empoyee/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240119-6717-1gq0hhi sitelibdir\=./.gem.20240119-6717-1gq0hhi install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20240119-6717-1gq0hhi
+
+current directory: /home/deepak/Desktop/Rspec_dummy/empoyee/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240119-6717-1gq0hhi sitelibdir\=./.gem.20240119-6717-1gq0hhi clean
